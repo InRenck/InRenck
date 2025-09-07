@@ -1,7 +1,7 @@
 ### Hi, I'm In! 👋  
 
 🚀 Aspiring Software Engineer & Game Developer<br/>
-🎓 Studying **System Analysis and Development** at **Estácio University, Florianópolis, Brazil**<br/> 
+🎓 Graduated **System Analysis and Development** at **Estácio University, Florianópolis, Brazil**<br/> 
 💡 Currently learning **C#** and **Data Analytics**<br/>
 🎮 Passionate about **game development, web technologies, and problem-solving**<br/>
 
