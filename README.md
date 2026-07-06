@@ -70,11 +70,6 @@ I'm actively merging my background in Systems Analysis with my ongoing Law studi
   </ul>
 </details>
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=InRenck&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-profile-trophy.vercel.app/?username=InRenck&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=InRenck&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
 ## 🌐 Socials:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/IngharaRenck) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:inrenck.uni@gmail.com) 
