@@ -72,5 +72,5 @@ I'm actively merging my background in Systems Analysis with my ongoing Law studi
 
 ## 🌐 Socials:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/IngharaRenck) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:inrenck.uni@gmail.com) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Inghara-Renck) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:inrenck.uni@gmail.com) 
 
